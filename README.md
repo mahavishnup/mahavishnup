@@ -12,7 +12,7 @@ I am a passionate **Senior Full-Stack Developer** with over **5+ years** of prof
 - 🧠 **Expertise:** Laravel, FastAPI, **LangChain/LangGraph**, Vector DBs (**Pinecone**), and Message Queues (**RabbitMQ**).
 - 🌱 **Learning:** Scalable Model Context Protocol (MCP) and distributed AI architectures.
 - 👯 **Collaborations:** Open to building production-grade **AI Agents** and complex backend systems.
-- ⚡ **Fun Fact:** I'm a gamer who loves bridging the gap between hardware (IoT) and cutting-edge AI.
+- ⚡ **Fun Fact:** I'm a gamer who loves bridging the gap between complex software systems and cutting-edge AI.
 
 ---
 
