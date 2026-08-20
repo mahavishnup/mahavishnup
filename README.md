@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Mahavishnu P
 
-### Senior Full-Stack Developer | PHP (Laravel) & JavaScript (React/Next.js)
+### Senior Full Stack Engineer | AI & Backend
 
-I am a passionate **Senior Full-Stack Developer** with over **5+ years** of professional experience in building scalable, production-grade web applications. I specialize in the **Laravel** and **React** ecosystems, with a deep understanding of secure RESTful APIs, database optimization, and modern frontend performance.
+I am a passionate **Senior Full Stack Engineer** with **6 years** of professional experience architecting and building enterprise applications, REST APIs, and AI-powered systems. I specialize in **Laravel**, **FastAPI**, **Python**, **React.js**, **PostgreSQL**, and cloud infrastructure — with strong expertise in AI/LLM integrations, distributed systems, and production deployments.
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 **Currently Building:** High-performance **AI-Agentic workflows** for legal analysis and **Vehicle monitoring systems** at [Hectadata](https://hectadata.com.my).
-- 🧠 **Expertise:** Laravel, FastAPI, **LangChain/LangGraph**, Vector DBs (**Pinecone**), and Message Queues (**RabbitMQ**).
+- 🔭 **Currently Building:** AI-assisted systems for legal analysis, vehicle monitoring, and overload detection at [Hectadata](https://hectadata.com.my) — including document processing, compliance dashboards, and reporting at scale.
+- 🧠 **Expertise:** Laravel, FastAPI, Python, LangChain, **OCR**, **RabbitMQ**, **MongoDB**, **Vector Databases (Qdrant)**, and cloud infrastructure.
 - 🌱 **Learning:** Scalable Model Context Protocol (MCP) and distributed AI architectures.
-- 👯 **Collaborations:** Open to building production-grade **AI Agents** and complex backend systems.
+- 👯 **Collaborations:** Open to building production-grade **AI Agents**, enterprise platforms, and complex backend systems.
 - ⚡ **Fun Fact:** I'm a gamer who loves bridging the gap between complex software systems and cutting-edge AI.
 
 ---
@@ -21,9 +21,10 @@ I am a passionate **Senior Full-Stack Developer** with over **5+ years** of prof
 | **Category** | **Tools & Technologies** |
 | :--- | :--- |
 | **Backend** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat&logo=livewire&logoColor=white) ![Filament](https://img.shields.io/badge/Filament-FFAD33?style=flat&logo=filament&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat&logo=inertia.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
-| **AI & Data** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-27272E?style=flat) ![MCP](https://img.shields.io/badge/MCP-000?style=flat&logo=anthropic&logoColor=white) |
-| **DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat&logo=inertia.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-FF4438?style=flat&logoColor=white) |
+| **AI & Data** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000?style=flat&logo=anthropic&logoColor=white) ![OCR](https://img.shields.io/badge/OCR-4285F4?style=flat&logo=google&logoColor=white) |
+| **DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) |
 
 ---
 
