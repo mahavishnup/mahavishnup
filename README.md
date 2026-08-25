@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Mahavishnu P
 
-### Senior Full Stack Engineer | AI & Backend
+### Senior Full Stack Engineer | PHP, Laravel, React.js & FastAPI
 
-I am a passionate **Senior Full Stack Engineer** with **6 years** of professional experience architecting and building enterprise applications, REST APIs, and AI-powered systems. I specialize in **Laravel**, **FastAPI**, **Python**, **React.js**, **PostgreSQL**, and cloud infrastructure — with strong expertise in AI/LLM integrations, distributed systems, and production deployments.
+I am a passionate **Senior Full Stack Engineer** with **6+ years** of professional experience building web applications and REST APIs using **PHP/Laravel**, **React.js**, **PostgreSQL/MySQL**, and **FastAPI/Python**. Experienced in AI-assisted applications, OCR, asynchronous processing, third-party integrations, and cloud/on-premise deployments.
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 **Currently Building:** AI-assisted systems for legal analysis, vehicle monitoring, and overload detection at [Hectadata](https://hectadata.com.my) — including document processing, compliance dashboards, and reporting at scale.
-- 🧠 **Expertise:** Laravel, FastAPI, Python, LangChain, **OCR**, **RabbitMQ**, **MongoDB**, **Vector Databases (Qdrant)**, and cloud infrastructure.
+- 🔭 **Currently Building:** AI-assisted legal analysis systems, vehicle monitoring dashboards, and logistics data extraction workflows at [Hectadata](https://hectadata.com.my) — using FastAPI, LangChain, Qdrant, RabbitMQ, and RAG-based multi-agent workflows.
+- 🧠 **Expertise:** Laravel, FastAPI, Python, LangChain, **OCR**, **RabbitMQ**, **Qdrant (Vector DBs)**, and cloud/on-premise infrastructure.
 - 🌱 **Learning:** Scalable Model Context Protocol (MCP) and distributed AI architectures.
 - 👯 **Collaborations:** Open to building production-grade **AI Agents**, enterprise platforms, and complex backend systems.
 - ⚡ **Fun Fact:** I'm a gamer who loves bridging the gap between complex software systems and cutting-edge AI.
