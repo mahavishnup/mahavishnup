@@ -28,8 +28,6 @@ I am a **Senior Full Stack Engineer** with **6+ years** of professional experien
 
 ---
 
----
-
 ### 📊 GitHub Stats
 
 <p align="left">
