@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Mahavishnu P
+# 👋 Hi, I'm Mahavishnu Ponnusamy
 
 ### Senior Full Stack Engineer | PHP, Laravel, React.js & FastAPI
 
-I am a passionate **Senior Full Stack Engineer** with **6+ years** of professional experience building web applications and REST APIs using **PHP/Laravel**, **React.js**, **PostgreSQL/MySQL**, and **FastAPI/Python**. Experienced in AI-assisted applications, OCR, asynchronous processing, third-party integrations, and cloud/on-premise deployments.
+I am a **Senior Full Stack Engineer** with **6+ years** of professional experience building production web applications, REST APIs, and business platforms using **PHP/Laravel**, **React.js/TypeScript**, **FastAPI/Python**, and **PostgreSQL/MySQL**. Experienced in AI-assisted automation, RAG, multi-agent workflows, API integrations, and cloud/on-premise deployments.
 
 ---
 
@@ -10,9 +10,9 @@ I am a passionate **Senior Full Stack Engineer** with **6+ years** of profession
 
 - 🔭 **Currently Building:** AI-assisted legal analysis systems, vehicle monitoring dashboards, and logistics data extraction workflows at [Hectadata](https://hectadata.com.my) — using FastAPI, LangChain, Qdrant, RabbitMQ, and RAG-based multi-agent workflows.
 - 🧠 **Expertise:** Laravel, FastAPI, Python, LangChain, **OCR**, **RabbitMQ**, **Qdrant (Vector DBs)**, and cloud/on-premise infrastructure.
-- 🌱 **Learning:** Scalable Model Context Protocol (MCP) and distributed AI architectures.
+- 🌱 **Currently exploring:** Distributed AI architectures and agent orchestration patterns.
 - 👯 **Collaborations:** Open to building production-grade **AI Agents**, enterprise platforms, and complex backend systems.
-- ⚡ **Fun Fact:** I'm a gamer who loves bridging the gap between complex software systems and cutting-edge AI.
+- ⚡ **Fun Fact:** I'm a gamer who builds production AI systems by day.
 
 ---
 
@@ -27,18 +27,6 @@ I am a passionate **Senior Full Stack Engineer** with **6+ years** of profession
 | **DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) |
 
 ---
-
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [React-Native Calculator app](https://www.youtube.com/watch?v=w5TeDpHzcP8)
-<!-- YOUTUBE:END -->
-
----
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How to learn React-ui-kit in React Native](https://dev.to/mahavishnup/how-to-learn-react-ui-kit-in-react-native-3jhc)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
